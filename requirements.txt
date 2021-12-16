@@ -1,0 +1,11 @@
+pytorch-lightning
+numpy
+pandas
+scikit-learn
+opencv-python
+torch>=1.6.0
+torchvision
+einops
+timm
+adabelief-pytorch
+adabound
